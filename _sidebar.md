@@ -1,5 +1,4 @@
 <!-- 侧边栏 -->
 
-- [世界观](/pages/world.md)
-- [角色](/pages/character.md)
+- [ME](/ME.html)
 <!-- 略 -->
